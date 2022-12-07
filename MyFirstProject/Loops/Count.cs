@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MyFirstProject.OOPdemoS;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -8,6 +9,9 @@ namespace MyFirstProject.Loops
     {
         static void Main(string[] args)
         {
+
+            AccessModifersDemo m = new AccessModifersDemo();
+            Console.WriteLine(m.y);
             int sum = 0;
             int r;
             Console.Write("Enter the Number: ");
