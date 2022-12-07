@@ -205,7 +205,7 @@ namespace MyFirstProject.String
             s.PatternForm2(str);
         }
     }
-    class StringTask2
+    class String2
     {
         // to calculate avg of digits present in string
         public static int AvgOfDigit(string s)
@@ -338,7 +338,7 @@ namespace MyFirstProject.String
 
             // Console.WriteLine("Avg of Numbers in a string := "+StringTask2.AvgOfDigit(str));
             //Console.WriteLine("Abbrevated Name := \n"+StringTask2.ToAbbrevatedForm(str));
-            StringTask2.ValidString(str);
+            String2.ValidString(str);
             //StringTask2.OccuranceOfChar(str);
 
             // Console.WriteLine("Vowel Count := "+StringTask2.CountVowel(str));

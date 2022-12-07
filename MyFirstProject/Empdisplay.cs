@@ -6,12 +6,12 @@ namespace MyFirstProject
 {
     class Empdisplay
     {
-        String name;
+        string name;
         int id;
         double salary;
 
 
-        public String Name
+        public string Name
         {
             set
             {

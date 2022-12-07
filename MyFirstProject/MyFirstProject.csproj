@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-	  <StartupObject>MyFirstProject.String.String1</StartupObject>
+	  <StartupObject>MyFirstProject.Str.S3</StartupObject>
 	 
 	  
   </PropertyGroup>
