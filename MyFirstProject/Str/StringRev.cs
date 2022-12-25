@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace MyFirstProject.String
+namespace MyFirstProject.Str
 {
     class StringRev
     {

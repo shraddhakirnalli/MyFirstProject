@@ -6,7 +6,7 @@ namespace MyFirstProject
 {
     class Empdisplay
     {
-        string name;
+        String name;
         int id;
         double salary;
 

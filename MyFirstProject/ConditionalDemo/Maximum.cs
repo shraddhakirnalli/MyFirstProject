@@ -19,7 +19,7 @@ namespace MyFirstProject.ConditionalDemo
             {
                 if(num1>num3)
                 {
-                    max = num3;
+                    max = num1;
                 }
             }
             else if(num2>num3)
