@@ -49,10 +49,6 @@ namespace MyFirstProject.Str
             }
             return LongestWord;
         }
-
-
-
-
         static void Main(string[] args)
         {
             Console.WriteLine("Enter string");
